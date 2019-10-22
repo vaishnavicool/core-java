@@ -10,7 +10,7 @@ public class FruitUtils {
 		basket[counter++]=f;
 		
 		else
-			System.out.println("basket is full");
+			System.out.println("\n basket is full");
 		
 	}
 
